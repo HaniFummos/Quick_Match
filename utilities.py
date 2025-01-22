@@ -2,6 +2,8 @@ import pygame
 import os
 
 BASE_IMG_PATH = 'C:/Users/HaniA/OneDrive - Vrije Universiteit Amsterdam/Dokumente/CS/Quick_Match/images/'
+BASE_IMG_PATH = 'C:/Users/HaniA/OneDrive - Vrije Universiteit Amsterdam/Desktop/UNI/CS DOCS/Quick_Match/images/'
+BASE_IMG_PATH = 'images/'
 
 
 def load_black_image(path):
